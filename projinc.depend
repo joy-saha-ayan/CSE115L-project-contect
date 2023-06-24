@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1687588704 source:c:\users\hp\documents\mypro\projinc\main.c
+	<stdio.h>
+	"manu.h"
+	<dos.h>
+	"login.h"
+	<dos.h>
+	"spalsh.h"
+
+1687452090 c:\users\hp\documents\mypro\projinc\con.h
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	<ctype.h>
+
+1687587313 c:\users\hp\documents\mypro\projinc\login.h
+	<string.h>
+
+1687588210 c:\users\hp\documents\mypro\projinc\manu.h
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+	<ctype.h>
+
+1687586953 source:c:\users\hp\documents\mypro\projinc\spalsh.c
+
+1687622740 c:\users\hp\documents\mypro\projinc\spalsh.h
+
